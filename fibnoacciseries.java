@@ -13,7 +13,7 @@ public class fibnoacciseries {
                 first = second;
                 second = nextterm;
             }
-            System.out.println("");
+            System.out.println(" ");
         }
     }
 }
