@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class fibnoacciseries {
     public static void main(String[] args) {
-        while(true) {
+
             Scanner sc = new Scanner(System.in);
             System.out.println("series until : ");
             int no = sc.nextInt();
@@ -14,6 +14,6 @@ public class fibnoacciseries {
                 second = nextterm;
             }
             System.out.println(" ");
-        }
+
     }
 }
