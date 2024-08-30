@@ -24,9 +24,3 @@ class palintrome{
     }
 }
 
-
-
-
-
-palintrome.java
-Displaying palintrome.java.
