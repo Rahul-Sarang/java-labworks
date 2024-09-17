@@ -11,7 +11,8 @@ public class fibnoacciseries {
                 System.out.print(first + " ");
                 int nextterm = first + second;
                 first = second;
-                second = nextterm;
+                second = nextterm; 
+                
             }
             System.out.println(" ");
 
